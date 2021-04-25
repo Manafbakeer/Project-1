@@ -1,4 +1,6 @@
-
+body{
+    background-image: url('./vv.jpg');
+}
 #gameState {
     text-align: center;
 }
